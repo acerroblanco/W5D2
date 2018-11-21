@@ -1,0 +1,10 @@
+/* PHASE 2: Notifications */
+.badge {
+  /* border: 1px solid black; */
+  display: inline;
+  padding: 1px 6px;
+  background: black;
+  border-radius: 50%;
+  font-size: 13.5px;
+  margin-left: 5px;
+}
